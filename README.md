@@ -21,7 +21,7 @@ git clone https://github.com/AIResearchLab/kobuki_system.git
 Pull the Docker image and start compose
 
 ```bash
-cd kobuki_system/docker
+cd kobuki_system
 docker compose pull
 docker compose up
 ```
