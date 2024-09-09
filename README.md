@@ -25,3 +25,10 @@ cd kobuki_system
 docker compose pull
 docker compose up
 ```
+
+To stop the system
+
+```bash
+cd kobuki_system
+docker compose down
+```
